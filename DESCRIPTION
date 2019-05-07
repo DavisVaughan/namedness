@@ -17,3 +17,5 @@ LinkingTo:
     Rcpp
 Imports: 
     Rcpp
+URL: https://github.com/DavisVaughan/namedness
+BugReports: https://github.com/DavisVaughan/namedness/issues
